@@ -48,7 +48,7 @@ GEM
       rails (>= 3.1.0)
     bootstrap-social-rails (4.8.0)
       railties (>= 3.1)
-    bothersme_list (0.0.2)
+    bothersme_list (0.0.3)
     bson (3.1.2)
     builder (3.2.2)
     byebug (5.0.0)
